@@ -1,1 +1,1 @@
-This challenge gives you a list of nested lists consiting of ints, strings, and some noise. You'l need to sort it out into two non nested lists (one ints and one strings) and retunr that to my challenges test function
+This challenge gives you a list of nested lists consiting of ints, strings, and some noise. You'l need to sort it out into two non nested lists (one ints and one strings) and return that to my challenges test function
